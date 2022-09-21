@@ -1,0 +1,10 @@
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.csproj.AssemblyReference.cache
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.AssemblyInfoInputs.cache
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.AssemblyInfo.cs
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.csproj.CoreCompileInputs.cache
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.MvcApplicationPartsAssemblyInfo.cs
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.MvcApplicationPartsAssemblyInfo.cache
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.dll
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/refint/ingenioTest.dll
+/Users/Pacho328/Proyectos_Dev/Ingenio/Back/ingenioTest/ingenioTest/obj/Debug/net6.0/ingenioTest.pdb
